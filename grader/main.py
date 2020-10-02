@@ -1,5 +1,6 @@
 import os
 import base64
+import random
 
 from flask import Flask, request, session
 from model import Grade 
